@@ -2,9 +2,9 @@
 
 ##概要
 
-这个一个jQuery的插件，它可以让您轻松的创建开关按钮。
+这是一个jQuery的插件，它可以让您轻松的创建开关按钮。
 
-1. 兼容IE8+、FireFox、Chrome等
+1. 兼容IE6+、FireFox、Chrome等
 2. 轻量级，源码（含注释）还不到3K
 3. 符合标准的html代码
 
@@ -25,7 +25,7 @@ http://demo.hpyer.cn/js/easyswitch/easyswitch.html
     </head>
     <body>
         <p>标准按钮：<span class="easyswitch"></span></p>
-        <p>默认选中按钮：<span class="easyswitch" data-default="1"></span></p>
+        <p>默认选中：<span class="easyswitch" data-default="1"></span></p>
         <p>改变标签：<span class="easyswitch" data-default="1" data-label-on="启用" data-label-off="禁用"></span></p>
         <p>回调函数：<span class="easyswitch" data-callback="onSwitch"></span></p>
         <script>

@@ -1,13 +1,13 @@
 /**
  * jquery.easyswitch.js
- * 这个一个jQuery的插件，它可以让您轻松的创建开关按钮。
+ * 这是一个jQuery的插件，它可以让您轻松的创建开关按钮。
  * 
  * -- REQUIRE: jQuery --
  * 
  * @author	Hpyer
  * @home	http://hpyer.cn
- * @version	1.0
- * @release	2015-03-22
+ * @version	1.1
+ * @release	2015-03-26
  */
 
 /*

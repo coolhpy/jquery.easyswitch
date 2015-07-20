@@ -6,8 +6,8 @@
  * 
  * @author	Hpyer
  * @home	http://hpyer.cn
- * @version	1.1
- * @release	2015-03-26
+ * @version	1.1.1
+ * @release	2015-07-20
  */
 
 /*

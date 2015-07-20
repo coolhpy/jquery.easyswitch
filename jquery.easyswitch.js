@@ -79,6 +79,7 @@ USAGE:
 				}
 			});
 
+			opts['default'] = parseInt(opts['default']);
 			if (opts['default']) {
 				self.addClass(opts['class-on']);
 				$('#easyswitch-'+opts['name']).val(1);
